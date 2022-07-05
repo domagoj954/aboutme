@@ -3,3 +3,9 @@
 - 🌱 I’m currently learning as many programming languages as possible 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me --> domagoj954@gmail.com
+
+
+
+
+
+[git.txt](https://github.com/domagoj954/domagoj954/files/9049806/git.txt)
