@@ -4,7 +4,25 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me --> domagoj954@gmail.com
 
-<!---
-domagoj954/domagoj954 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How git works:
+git init - create new local repository in some directory
+pwd - path
+git add . - add
+git status - status
+git commit -m "some text"  -> login to github
+git remote add origin https://github.com/domagoj954/csharp.git - https of git repository on internet
+git remote -v   - where i am
+git branch -M main - change branches 
+git push -uf origin main -- PUSH ON GIT (in main)
+
+https://www.youtube.com/watch?v=QJ0iUNe27c8
+
+****DELETE****
+git rm -r someDirectory
+
+git commit -m "Directory removed"
+git push -uf origin master/main 
+
+
+****CLONE****
+git clone url
