@@ -20,3 +20,14 @@ git push -uf origin master/main
 
 ****CLONE****
 git clone url
+
+
+****CHECK USER****
+git config user.name
+git config user.email
+
+git config --global user.name "some name" --globally changes
+git config --global user.email "some email"
+
+git config user.name "some name" --local changes
+git config user.email "some email"
